@@ -1,3 +1,3 @@
-# classification-model
+# Classification-model project1 from cs149
 
 build a model for classifying samples into class 1 or 2. There are two data files, "Training dataset" and "Test dataset," as the names suggest; the first one is the training dataset, and the second one is the test dataset. The last column of the training set contains the labels of the samples. The test dataset does not contain the labels. The first row in each data file is the header, and each of the rest rows is a sample. Features 2, 4, 5, 7 are categorical features, and the rest are continuous features. You should use the training set to build your model and then apply your model to make predictions for the samples in the test set. Save your predictions in a file "P1_test_output.csv", in which each row is the prediction of the corresponding row in the test set. Please do not add a header row in "P1_test_output.csv".
